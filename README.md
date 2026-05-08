@@ -1,8 +1,39 @@
-- 👋 Hi, I’m @amitkumargoyal
-- 👀 I’m interested in Economics and Applied Probability models.
-- 🌱 I’m currently learning Economics, Computer Science, Mathematics and Statistics
-- 💞️ I’m looking to collaborate on Economic research.
-- 📫 How to reach me : amit@econschool.in
+# Amit Goyal
+ 
+**Economics Coach & Academic Specialist**  
+Founder, [Econschool](https://econschool.in) · Affiliated with NYU Abu Dhabi · Based in Delhi & Abu Dhabi
+ 
+---
+ 
+## What I do
+ 
+I run **Econschool**, a preparatory program for students aspiring to MA/PhD in Economics at DSE, ISI, JNU, and international universities. My teaching emphasises mathematical rigour — I believe there are no shortcuts to understanding economics well.
+ 
+On YouTube ([@econ.school](https://www.youtube.com/@econ.school), ~9K subscribers), I produce lectures, problem-solving sessions, and a **research-to-problem** series that translates landmark papers — Akerlof, Milgrom, Diamond-Dybvig — into problems solvable at MA level.
+ 
+---
+ 
+## What I build
+ 
+- 📐 **Econ Artbook** — a 100-page collection of mathematical postcards made with TikZ and Mathcha  
+- 🐍 **Python & R workshops** for economics students — data analysis, simulations, and tools for economists  
+- 📊 **LaTeX presentations** for video lectures (with Nidhi Jain)  
+- 🌐 Websites and educational infrastructure for Econschool  
+---
+ 
+## Research Interests
+ 
+Microeconomic theory · Game theory · Economic education
+ 
+---
+ 
+## Connect
+ 
+- 🌐 [econschool.in](https://econschool.in)
+- 📺 [YouTube @econ.school](https://www.youtube.com/@econ.school)
+- 🐦 [Twitter @amit_k_goyal](https://twitter.com/amit_k_goyal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amit-k-goyal/)
+- 📧 amit@econschool.in
 
 <!---
 amitkumargoyal/amitkumargoyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
