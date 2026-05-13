@@ -7,9 +7,9 @@ Founder, [Econschool](https://econschool.in) · Affiliated with NYU Abu Dhabi ·
  
 ## What I do
  
-I run **Econschool**, a preparatory program for students aspiring to MA/PhD in Economics at DSE, ISI, JNU, and international universities. My teaching emphasises mathematical rigour — I believe there are no shortcuts to understanding economics well.
+I run **Econschool**, a preparatory program for students aspiring to MA/PhD in Economics at ISI, IITs, DSE, and international universities. My teaching emphasises mathematical rigour — I believe there are no shortcuts to understanding economics well.
  
-On YouTube ([@econ.school](https://www.youtube.com/@econ.school), ~9K subscribers), I produce lectures, problem-solving sessions, and a **research-to-problem** series that translates landmark papers — Akerlof, Milgrom, Diamond-Dybvig — into problems solvable at MA level.
+On YouTube ([@econ.school](https://www.youtube.com/@econ.school), ~9K subscribers), I produce lectures, problem-solving sessions, and a **research-to-problem** series that translates landmark papers into problems solvable at MA level.
  
 ---
  
@@ -23,7 +23,7 @@ On YouTube ([@econ.school](https://www.youtube.com/@econ.school), ~9K subscriber
  
 ## Research Interests
  
-Microeconomic theory · Game theory · Economic education
+Microeconomic theory · Economic education
  
 ---
  
